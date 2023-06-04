@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KishanSirJdbcApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(KishanSirJdbcApplication.class, args);
 	}
 
